@@ -1,4 +1,4 @@
-# - 데이터통계 과제
+# - 데이터통계 과제01
 
 ### Type Error: data argument cannot be an iterator
 - df = pd.DataFrame(data) 부분에서 보통 뜰 건데, data를 list로 감싸주면 오류 해결됨
